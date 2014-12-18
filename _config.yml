@@ -3,8 +3,8 @@ title: Producer team web guide
 email: kai@ink-cafe.com
 description: > # this means to ignore newlines until "baseurl:"
   Basic guide for the @sctimes producer team. Will be edited and changed, not to be taken as the bible guide to the internet, created by Kai based upon his hodgepodge of web knowledge
-baseurl: "http://tjk911.github.io/guide/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tjk911.github.io/guide/" # the base hostname & protocol for your site
 twitter_username: jkteoh
 github_username:  tjk911
 

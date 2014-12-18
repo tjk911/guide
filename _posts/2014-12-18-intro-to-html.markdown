@@ -34,7 +34,7 @@ Another thing to note is that tags can accept attributes that modify how it beha
 On to the tags:
 
 
-<b>&lt;a&gt;</b> is an anchor tag and used to hyperlink to other pages or to trigger a "send mail" event. Here are three common ways to use it
+1. <b>&lt;a&gt;</b> is an anchor tag and used to hyperlink to other pages or to trigger a "send mail" event. Here are three common ways to use it
 
 {% highlight html %}
 <a href="http://www.example.com">This links to example.com</a>
@@ -56,13 +56,13 @@ The "href" attribute accepts a few different kinds of values, and one of it is t
 
 
 
-<b>&lt;p&gt;</b> is the paragraph tag. When you're writing in HTML, you can always manually hit "enter" a couple of times to create paragraphs, but it's not advisable because different situations might render it differently. Hell, sometimes it won't even be rendered at all so you'll end up with one big block of text instead of various paragraphs.
+2. <b>&lt;p&gt;</b> is the paragraph tag. When you're writing in HTML, you can always manually hit "enter" a couple of times to create paragraphs, but it's not advisable because different situations might render it differently. Hell, sometimes it won't even be rendered at all so you'll end up with one big block of text instead of various paragraphs.
 
-<b>&lt;h1&gt;</b>, <b>&lt;h2&gt;</b>, <b>&lt;h3&gt;</b>, <b>&lt;h4&gt;</b>, <b>&lt;h5&gt;</b> tags are header tags. HTML only supports up to five basic tags, though there are many ways you can tweak later on. These tags would be the subhead, lead_in etc of the NG world.
+3. <b>&lt;h1&gt;</b>, <b>&lt;h2&gt;</b>, <b>&lt;h3&gt;</b>, <b>&lt;h4&gt;</b>, <b>&lt;h5&gt;</b> tags are header tags. HTML only supports up to five basic tags, though there are many ways you can tweak later on. These tags would be the subhead, lead_in etc of the NG world.
 
-<b>&lt;i&gt;</b> is for italics, <b>&lt;b&gt;</b> is for bold, <b>&lt;s&gt;</b> is for strikethroughs.
+4. <b>&lt;i&gt;</b> is for italics, <b>&lt;b&gt;</b> is for bold, <b>&lt;s&gt;</b> is for strikethroughs.
 
-<b>&lt;ul&gt;</b> is to create an unordered list, and once you open it, you'll need to fill it with <b>&lt;li&gt;</b> list items. At the end of it, you'll have to close it off as well. Another option is to use a numbered/ordered list with <b>&lt;ol&gt;</b>.
+5. <b>&lt;ul&gt;</b> is to create an unordered list, and once you open it, you'll need to fill it with <b>&lt;li&gt;</b> list items. At the end of it, you'll have to close it off as well. Another option is to use a numbered/ordered list with <b>&lt;ol&gt;</b>.
 
 {% highlight html %}
 
