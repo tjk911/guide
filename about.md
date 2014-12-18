@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Basic guide for the [@sctimes](http://www.twitter.com/sctimes) producer team. Will be edited and changed, not to be taken as the bible guide to the internet, created by Kai based upon his hodgepodge of web knowledge.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Team members (and web coders/devs to look out for) includes:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. [Kai Teoh](http://www.twitter.com/jkteoh)
+2. [Chris Shields](http://www.twitter.com/clshields1980)
+3. [Caitlin Yilek](http://www.twitter.com/hausofcait)
+4. Emily Peterson
+
+Feel free to commit to on github.
