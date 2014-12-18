@@ -6,7 +6,7 @@ categories: intro
 ---
 
 A few notes
------------
+----------- 
 
 I'm going to cover as much as I can and start from the absolute basics. I'm sure you already know some of it, if not many of it, but I'll just cover as much as I can to be on the safer side. And chances are I'll miss a fair bit too, so feel free to IM/email me and I'll add to it.
 
