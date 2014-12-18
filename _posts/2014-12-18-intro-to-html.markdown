@@ -87,7 +87,7 @@ and
 
 {% highlight html %}
 
-<ol>Winners of the taco eating contest
+<ol>
     <li>Big Bob</li>
     <li>Hungry Harry</li>
     <li>Skinny Sam</li>
@@ -97,7 +97,7 @@ and
 
 will generate
 
-* Winners of the taco eating contest
+
 1. Big Bob
 2. Hungry Harry
 3. Skinny Sam
