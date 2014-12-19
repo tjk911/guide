@@ -2,7 +2,7 @@
 layout: post
 title:  "Intro to basic html"
 date:   2014-12-18
-categories: intro
+categories: html basic
 ---
 
 A few notes
@@ -15,8 +15,8 @@ Some useful sites
 
 [W3schools][w3schools] is a good place to start if you hit any roadblocks. It's not always accurate and can sometimes be outdated, but for basic stuff like HTML it's fairly reliable. Its CSS section can be questionable at times, but still fairly usable.
 
-Frequently used tags
---------------------
+These things they call 'tags'
+-----------------------------
 
 HTML uses tags, and tags are those little words between <> that helps us shape and define the pages. Some tags require to be opened and closed while others do not. Opening a tag is as simple as writing it out, and closing it is adding a / in it at the end. An example would be...
 
@@ -31,8 +31,8 @@ The only tag that I've ever used that does not require being closed is the break
 Another thing to note is that tags can accept attributes that modify how it behaves, I'll give a few commonly used examples below as well.
 
 
-On to the tags:
-
+Frequently used tags
+--------------------
 
 * <b>&lt;a&gt;</b> is an anchor tag and used to hyperlink to other pages or to trigger a "send mail" event. Here are three common ways to use it
 
@@ -60,7 +60,11 @@ The "href" attribute accepts a few different kinds of values, and one of it is t
 
 * <b>&lt;h1&gt;</b>, <b>&lt;h2&gt;</b>, <b>&lt;h3&gt;</b>, <b>&lt;h4&gt;</b>, <b>&lt;h5&gt;</b> tags are header tags. HTML only supports up to five basic tags, though there are many ways you can tweak later on. These tags would be the subhead, lead_in etc of the NG world.
 
-* <b>&lt;i&gt;</b> is for italics, <b>&lt;b&gt;</b> is for bold, <b>&lt;s&gt;</b> is for strikethroughs.
+* <b>&lt;i&gt;</b> is for <i>italics</i>.
+
+* <b>&lt;b&gt;</b> is for <b>bold</b>.
+
+* <b>&lt;s&gt;</b> is for <s>strikethroughs</s>.
 
 * <b>&lt;ul&gt;</b> is to create an unordered list, and once you open it, you'll need to fill it with <b>&lt;li&gt;</b> list items. At the end of it, you'll have to close it off as well. Another option is to use a numbered/ordered list with <b>&lt;ol&gt;</b>.
 
@@ -102,5 +106,6 @@ will generate
 2. Hungry Harry
 3. Skinny Sam
 
+This should cover the basic tags that you'll need
 
 [w3schools]:    http://w3schools.com
